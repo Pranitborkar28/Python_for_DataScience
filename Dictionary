@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 21 08:18:31 2024
 
-@author: aniket
-"""
 dict1={"brand":"maruti",
        "model":"2345",
        "year":2011}
