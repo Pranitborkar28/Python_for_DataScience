@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun 23 10:27:00 2024
 
-@author: aniket
-
-"""
 
 
 fruits = ['apple', 'banana', 'cherry']
